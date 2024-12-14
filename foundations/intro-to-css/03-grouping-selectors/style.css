@@ -1,0 +1,17 @@
+.base,.neat,.another{
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.base{
+    background-color: black;
+    color: white;
+}
+
+.neat {
+    background-color: yellow;
+  }
+
+.another {
+    background-color: red;
+}
